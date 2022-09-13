@@ -1,1 +1,1 @@
-# Hosting plotly in github
+# Hosting interactive plotly plots in github
